@@ -1,4 +1,4 @@
-[My giihub - Inditex period](https://github.com/javierpalo)
+[My github - Inditex period](https://github.com/javierpalo)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center"
